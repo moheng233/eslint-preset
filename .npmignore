@@ -1,0 +1,9 @@
+src
+docs
+examples
+
+tsconfig.tsbuildinfo
+
+eslint.config.mjs
+tsconfig.json
+tsconfig.*.json
